@@ -8,7 +8,7 @@
 
 #import "HBHTTPURLProtocol.h"
 #import "HBURLSessionDemux.h"
-#import "HBMutableArray.m"
+#import "HBMutableArray.h"
 #import "URLProtocolLog.h"
 #import "HBURLSessionMap.h"
 #import <mach/mach_time.h>
